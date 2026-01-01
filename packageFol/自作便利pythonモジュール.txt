@@ -3,5 +3,9 @@ downloads = [
         "https://github.com/Answer-Cue/transport/raw/refs/heads/main/nomalfolder/dlwebC.py",
         "dlwebC.py",
     ),
+    (
+        "https://github.com/Answer-Cue/transport/raw/refs/heads/main/nomalfolder/cuter.py",
+        "cuter.py",
+    ),
 ]
 
