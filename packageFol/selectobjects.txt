@@ -1,4 +1,4 @@
-Debugビルド
+kaikaビルド
 Releaseビルド
 Portableビルド
 戻る
