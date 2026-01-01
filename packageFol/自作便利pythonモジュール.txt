@@ -1,1 +1,15 @@
+downloads = [
+    (
+        "https://www.torproject.org/dist/torbrowser/15.0.3/tor-browser-windows-x86_64-portable-15.0.3.exe",
+        "tor-browser.exe",
+    ),
+    (
+        "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+        "visualstudiosetup.exe",
+    ),
+    (
+        "https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe",
+        "python-3.14.2-amd64.exe",
+    ),
+]
 
