@@ -7,5 +7,9 @@ downloads = [
         "https://github.com/Answer-Cue/transport/raw/refs/heads/main/nomalfolder/cuter.py",
         "cuter.py",
     ),
+    (
+        "https://www.dropbox.com/scl/fi/0ew1hu1yzww8uo29c0ghv/YouTubeAudioDownloader.exe?rlkey=k0q7110ejo7tkmla6kq5qe3v3&st=4mdbdb4a&dl=1",
+        "YouTubeAudioDownloader.exe",
+    ),
 ]
 
