@@ -2,5 +2,5 @@ downloads = [
     (
         "https://www.dropbox.com/scl/fi/5admai57akfw3v7b68xk1/aviutl110.zip?rlkey=i9ei1hrzv50u9kfpgxz6h1fp4&st=zwtbxot6&dl=1,
         "aviutl.zip",
-    )
+    ),
 ]
